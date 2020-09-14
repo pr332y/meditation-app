@@ -1,2 +1,2 @@
 # meditation-app
-Meditation app tutorial
+Meditation app timer and video player
